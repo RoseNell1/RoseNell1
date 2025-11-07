@@ -7,11 +7,11 @@
 
 ---
 
-### 🌸 Sobre mí  
+### 🦁 Sobre mí  
 - 💬 Apasionada por el **branding**, la **comunicación estratégica** y el **marketing**.  
 - 🌱 Actualmente aprendiendo **React** para unir marketing + tecnología.  
 - 📊 Experiencia en **ecommerce, redes sociales, campañas y posicionamiento de marca**.  
-- 💡 Me inspiran la innovación digital.  
+- 💡 Me inspira la innovación digital.  
 
 ---
 
