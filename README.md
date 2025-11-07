@@ -1,48 +1,48 @@
-<h1 align="center">✨ Hola, soy <strong>Rose Valiente</strong> (@RoseNell1) ✨</h1>
+<h1 align="center">✨ Hi, I'm <strong>Rose Valiente</strong> (@RoseNell1) ✨</h1>
 
 <p align="center">
-💼 <strong>Marketera | Estratega Digital | Creativa Tecnológica</strong><br>
-🚀 Transformo ideas en marcas con propósito y presencia global.
+💼 <strong>Marketer | Digital Strategist | Creative Technologist</strong><br>
+🚀 I turn ideas into brands with purpose and global presence.
 </p>
 
 ---
 
-### 🦁 Sobre mí  
-- 💬 Apasionada por el **branding**, la **comunicación estratégica** y el **marketing**.  
-- 🌱 Actualmente aprendiendo **React** para unir marketing + tecnología.  
-- 📊 Experiencia en **ecommerce, redes sociales, campañas y posicionamiento de marca**.  
-- 💡 Me inspira la innovación digital.  
+### 🦁 About Me  
+- 💬 Passionate about **branding**, **strategic communication**, and **marketing**.  
+- 🌱 Currently learning **React** to merge marketing + technology.  
+- 📊 Experience in **ecommerce, social media, campaigns, and brand positioning**.  
+- 💡 Inspired by digital innovation.  
 
 ---
 
-### 🎯 Lo que hago  
-- 💻 Desarrollo estrategias digitales para marcas y productos.  
-- 📱 Manejó la comunicación e imágen de la marca.Eventos.
-- 🛍️ Apoyo en proyectos de ecommerce y marketing internacional.  
-- 🔍 Analizo métricas, tendencias y experiencia de usuario (UX).  
+### 🎯 What I Do  
+- 💻 Develop digital strategies for brands and products.  
+- 📱 Manage brand communication, image, and events.  
+- 🛍️ Support ecommerce and international marketing projects.  
+- 🔍 Analyze metrics, trends, and user experience (UX).  
 
 ---
 
-### 🧠 Tecnologías e intereses  
+### 🧠 Tools & Interests  
 <p align="left">
 💻 React · HTML · CSS · JavaScript · GitHub  
-📈 Google Analytics · SEO · Marketing Digital · Branding  
+📈 Google Analytics · SEO · Digital Marketing · Branding  
 🎨 Canva · Figma · Adobe Illustrator  
 </p>
 
 ---
 
-### 🌍 Mi visión  
-> “El marketing no solo vende, **conecta, inspira y transforma**.”  
-Busco unir creatividad, estrategia y tecnología para construir marcas memorables.
+### 🌍 My Vision  
+> “Marketing doesn’t just sell — it **connects, inspires, and transforms**.”  
+I aim to blend creativity, strategy, and technology to build memorable brands.  
 
 ---
 
-### 📫 Cómo contactarme  
+### 📫 Get in Touch  
 📎 [LinkedIn](https://www.linkedin.com/)  
 📷 [Instagram](https://www.instagram.com/)  
-🌐 [Portafolio o Web](https://roseNell1.netlify.app
+🌐 [Portfolio or Website](https://roseNell1.netlify.app)  
 
 ---
 
-⭐ _Gracias por visitar mi perfil. ¡Construyamos algo increíble!_ 🌟
+⭐ _Thanks for visiting my profile. Let’s build something amazing together!_ 🌟
