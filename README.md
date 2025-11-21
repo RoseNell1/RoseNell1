@@ -27,7 +27,39 @@
 <p align="left">
 💻 React · HTML · CSS · JavaScript · GitHub  
 📈 Google Analytics · SEO · Digital Marketing · Branding  
-🎨 Canva · Figma · Adobe Illustrator  
+🎨 Diseño · Figma · Adobe Illustrator  
+
+<p align="left">
+
+<!-- Marketing + Web -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Automatización -->
+<img src="https://img.shields.io/badge/n8n-A200FF?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-2E4FD7?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+
+<!-- IA -->
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Ciberseguridad -->
+<img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<!-- Branding + Diseño -->
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<!-- Ecommerce -->
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+</p>
+
 </p>
 
 ---
