@@ -62,8 +62,6 @@
 <!-- 🔹 Marketing & Creative Tools -->
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
 <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
 
 </p>
 
