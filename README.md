@@ -23,7 +23,7 @@
 
 ---
 
-### 🧠 Tools & Interests  
+### 🤖 Tools & Interests  
 <p align="left">
 💻 React · HTML · CSS · JavaScript · GitHub  
 📈 Google Analytics · SEO · Digital Marketing · Branding  
