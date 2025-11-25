@@ -73,11 +73,4 @@ I aim to blend creativity, strategy, and technology to build memorable brands.
 
 ---
 
-### 📫 Get in Touch  
-📎 [LinkedIn](https://www.linkedin.com/)  
-📷 [Instagram](https://www.instagram.com/)  
-🌐 [Portfolio or Website](https://roseNell1.netlify.app)  
-
----
-
 ⭐ _Thanks for visiting my profile. Let’s build something amazing together!_ 🌟
