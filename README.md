@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <strong>Rose Valiente</strong> (@RoseNell1) ✨</h1>
+<h1 align="center">✨  <strong> 👋🏻 ✨</h1>
 
 <p align="center">
 💼 <strong>Marketer | Digital Strategist | Creative Technologist</strong><br>
