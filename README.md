@@ -1,7 +1,7 @@
 <h1 align="center">✨  <strong> Hola 👋🏻 ✨</h1>
 
 <p align="center">
-💼 <strong>Marketer | Digital Strategist | Creative Technologist</strong><br>
+💼 <strong>Marketer |Strategist | Creative Technologist</strong><br>
 🚀 I turn ideas into brands with purpose and global presence.
 </p>
 
